@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <title>Police Emergency Service System</title>
-<link rel="stylesheet" type="text/css" href="cascading_style_sheet/pess_style.css">
+<link rel="stylesheet" type="text/css" href="pess_style.css">
 <script type="text/javascript">
 function validateForm()
 {
@@ -59,7 +59,7 @@ $conn->close();
     <td><input type="text" name="callerName" id="callerName"></td>
   </tr>
   <tr>
-    <td>Contact No :</td>
+    <td>Contact Number :</td>
     <td><input type="text" name="contactNo" id="contactNo"></td>
   </tr>
   <tr>
